@@ -4,7 +4,7 @@ A live demo of an automation I built for a small company: order emails turn into
 
 **Try it:** https://anas-qatanani.github.io/order-email-to-sheet/
 
-**Watch it (38 s):** [demo.mp4](https://anas-qatanani.github.io/order-email-to-sheet/demo.mp4)
+**Watch it (32 s):** [demo.mp4](https://anas-qatanani.github.io/order-email-to-sheet/demo.mp4)
 
 All emails, names and companies here are made up. No client data.
 
