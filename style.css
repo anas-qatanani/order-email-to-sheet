@@ -103,3 +103,4 @@ tr.flash td{animation:flash 1.6s ease-out}
 @media (prefers-reduced-motion:reduce){tr.flash td,.card{animation:none}}
 .stop>div{min-width:0;flex:1}
 .film td{height:19px;padding:1px 6px}.film th{padding:1px 6px}
+@media (max-width:520px){.gright{display:none}.tab:not(.on){display:none}.tab.on{width:auto;max-width:none}.grid table{width:100%;table-layout:fixed}.grid th,.grid td{font-size:11px;padding:2px 4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}}
